@@ -1,0 +1,75 @@
+body {
+    background-color: darksalmon;
+} 
+.nav {
+    overflow: hidden;
+    background-color: blanchedalmond;
+    box-shadow: 6px 0 6px 0 black;
+    display: inline-block;
+height: 20px;
+padding: 5px;
+align-items: center;
+position: fixed;
+top: 0;
+max-width: fit-content;
+}
+.Mother {
+    background-color: mistyrose; color: dimgrey;
+    border: 2px dimgrey solid;
+    border-radius: 20px;
+    text-align: center;
+    padding: 6px 2px 6px 2px;
+    margin: 5px;
+    box-shadow: 2px 0 4px 0 dimgrey;
+}
+.WebDev {
+    background-color: rosybrown; 
+    color:lavenderblush;
+    border: 2px darkslategrey solid;
+    border-radius: 20px;
+    text-align: center;
+    padding: 6px 2px 6px 2px;
+    margin: 5px;
+    box-shadow: 2px 0 4px 0 darkslategrey;
+}
+.Florist{
+    background-color: lavenderblush;
+    color:dimgrey;
+    border: 1px darkolivegreen solid;
+    border-radius: 10px;
+    text-align: center;
+    padding: 6px 2px 6px 2px;
+    margin: 5px;
+    box-shadow: 2px 0 4px 0 darkolivegreen;
+
+    }
+    .First{
+        background-color: honeydew;
+        color: darkmagenta;
+        border: 2px darkseagreen solid;
+        text-align: center;
+        border-radius: 10px;
+        padding: 6px 3px 6px 3px;
+        margin: 5px;
+        box-shadow: 2px 0 4px 0 darkseagreen;
+    }
+    .Second {
+        background-color: peachpuff;
+        color: darkolivegreen;
+        border: 2px darkmagenta solid;
+        text-align: center;
+        padding: 6px 3px 6px 3px;
+        margin: 5px;
+        box-shadow: 2px 0 4px 0 darkmagenta;
+    }
+    .Third {
+        background-color: lightgoldenrodyellow;
+        color: indianred;
+        border: 2px darkcyan solid;
+        text-align: center;
+        border-radius: 10px;
+        padding: 6px 3px 6px 3px;
+        margin: 5px;
+        box-shadow: 2px 0 4px 0 darkcyan;
+
+    }
