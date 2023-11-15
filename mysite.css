@@ -71,5 +71,8 @@ max-width: fit-content;
         padding: 6px 3px 6px 3px;
         margin: 5px;
         box-shadow: 2px 0 4px 0 darkcyan;
-
     }
+    /* align labels in the center.
+    #Name {
+        text-align: center;
+    }*/
